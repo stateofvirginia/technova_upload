@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": "17995040",
+            "name": "Ben Shapiro",
+            "username": "benshapiro"
+        },
+        
+        "id": "44196397",
+        "name": "Elon Musk",
+        "username": "elonmusk"
+        
+        {   
+            
+            "id": "21111883",
+            "name": "Demi Lovato",
+            "username": "ddlovato"
+        },
+        {
+            "id": "182076792",
+            "name": "cherry ✨",
+            "username": "cherryqian06"
+        }
+    ],
+    "errors": [
+        {
+            "parameter": "usernames",
+            "resource_id": "realdonaldtrump",
+            "value": "realdonaldtrump",
+            "detail": "User has been suspended: [realdonaldtrump].",
+            "title": "Forbidden",
+            "resource_type": "user",
+            "type": "https://api.twitter.com/2/problems/resource-not-found"
+        }
+    ]
+}
